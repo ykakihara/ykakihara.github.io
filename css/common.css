@@ -1,8 +1,7 @@
-<style>
 .nav {
     padding-top: 20px;
-    border-bottom: thin solid #e0e0e0;
     margin-bottom: 10px;
+    font-family: 'Raleway';
 }
 
 .grey {
@@ -38,5 +37,3 @@
     padding-top: 10px;
     padding-bottom: 30px;
 }
-
-</style>
